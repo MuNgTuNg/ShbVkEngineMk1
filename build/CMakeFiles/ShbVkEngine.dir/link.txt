@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ShbVkEngine.dir/src/main.cpp.o CMakeFiles/ShbVkEngine.dir/src/sApp.cpp.o CMakeFiles/ShbVkEngine.dir/src/sDebug.cpp.o CMakeFiles/ShbVkEngine.dir/src/sDevice.cpp.o -o ShbVkEngine  /usr/lib/libglfw.so.3.3 /lib/libvulkan.so -lX11 -lpthread -lXxf86vm -lXrandr -lXi 
